@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Contacts.WebApi", "Contacts\Contacts.WebApi.xproj", "{77271B72-346F-4158-91C5-09CF28D2BD76}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Contacts.WebApi", "Contacts.WebApi\Contacts.WebApi.xproj", "{77271B72-346F-4158-91C5-09CF28D2BD76}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Contacts.Mvc", "ContactsMvc\Contacts.Mvc.xproj", "{AC6E7A83-2E19-47E0-A93E-EA58FD066874}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Contacts.Mvc", "Contacts.Mvc\Contacts.Mvc.xproj", "{AC6E7A83-2E19-47E0-A93E-EA58FD066874}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
